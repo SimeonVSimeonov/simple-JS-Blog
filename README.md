@@ -1,1 +1,1 @@
-# SimeonVSimeonov.github.io
+# simple JS Blog
